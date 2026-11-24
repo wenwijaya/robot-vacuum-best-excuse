@@ -1,0 +1,1 @@
+{"description":"The funniest one-line excuse a robot vacuum gives for missing a spot. Entry for make.fun's \"The Robot Vacuum's Best Excuse\" bounty.","license":"MIT","main":"main.ts","name":"robot-vacuum-best-excuse","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
