@@ -14,7 +14,7 @@ node main.ts
 
 The program writes one line to `/output/entry.txt`:
 
-> My sensors flagged that corner as a sovereign nation, so I respected its borders and left it exactly as dirty as I found it.
+> I found a dust bunny colony nesting under the couch, so out of respect for local wildlife I left its habitat completely untouched.
 
 ---
 
